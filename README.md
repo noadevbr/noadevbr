@@ -18,6 +18,7 @@ Programador TypeScript, JavaScript e Ruby | entusiasta de ideias malucas e Open-
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![NestJS](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev)
 [![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![ElysiaJS](https://skillicons.dev/icons?i=elysia)](https://skillicons.dev)
 [![Ruby](https://skillicons.dev/icons?i=ruby)](https://skillicons.dev)
 [![Bun](https://skillicons.dev/icons?i=bun)](https://skillicons.dev)
 
