@@ -1,7 +1,4 @@
-# 👋 Opa, eu sou a Noa  
-
-Programador TypeScript, JavaScript e Ruby | entusiasta de ideias malucas e Open-Source.  
-
+<img src="./BannerGithub.png">
 ---
 
 ## 🚀 Tecnologias que eu mais uso:
@@ -43,10 +40,11 @@ Programador TypeScript, JavaScript e Ruby | entusiasta de ideias malucas e Open-
 
 ---
 
-## 🌌 Estatísticas do GitHub  
+## 🌌 Estatísticas legais
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noadevbr&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noadevbr&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=noadevbr\&show_icons=true\&theme=dark)](https://github.com/noadevbr/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noadevbr&layout=compact&theme=dark&hide_border=true) 
+
+![Wakatike](https://github-readme-stats.vercel.app/api/wakatime?username=noadevbr&show_icons=true&layout=compact&theme=tokyonight&langs_count=10)
 
 </div>
