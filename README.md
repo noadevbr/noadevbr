@@ -1,5 +1,4 @@
 <img src="./BannerGithub.png">
----
 
 ## 🚀 Tecnologias que eu mais uso:
 
