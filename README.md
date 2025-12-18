@@ -41,11 +41,7 @@
 ## 🌌 Estatísticas legais
 
 <div align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=noadevbr&show_icons=true&theme=dark)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noadevbr&layout=compact&theme=dark&langs_count=10&v={{VERSION}})
-
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=noadevbr&layout=compact&theme=dark&langs_count=10&v={{VERSION}})
 
