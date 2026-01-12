@@ -48,4 +48,4 @@
 
 </div>
 
-<img src="https://tenor.com/view/dog-sleeping-napping-sleeoing-dog-white-dog-gif-26213216">
+<img src="https://media1.tenor.com/m/6JU0Nsz3ZTcAAAAd/dog-sleeping-napping.gif">
