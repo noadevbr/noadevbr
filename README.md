@@ -47,3 +47,5 @@
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=noadevbr&layout=compact&theme=dark&langs_count=10&v={{VERSION}})
 
 </div>
+
+<img src="https://tenor.com/view/dog-sleeping-napping-sleeoing-dog-white-dog-gif-26213216">
