@@ -86,8 +86,11 @@
 </details>
 
 ---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=noadevbr&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noadevbr&layout=compact&theme=dark&langs_count=10&v={{VERSION}})
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=noadevbr&layout=compact&theme=dark&langs_count=10&v={{VERSION}})
 
+---
 <div align="center">
   <img src="https://media1.tenor.com/m/6JU0Nsz3ZTcAAAAd/dog-sleeping-napping.gif" width="260"/>
-  <p>fã das obras de Toby Fox.</p>
 </div>
