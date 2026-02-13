@@ -6,6 +6,7 @@
 </div>
 
 ---
+> Me jogue aos lobos e eu te trarei uma CLI
 
 ## Stack
 
