@@ -9,7 +9,7 @@
 ## Stack
 
 <details>
-<summary><strong>🖥️ Sistema & Ferramentas</strong></summary>
+<summary><strong>🖥️ System</strong></summary>
 
 <br/>
 
@@ -41,7 +41,7 @@
 </details>
 
 <details>
-<summary><strong>🗄️ Bancos de Dados</strong></summary>
+<summary><strong>🗄️ Databases</strong></summary>
 
 <br/>
 
@@ -72,7 +72,7 @@
 </details>
 
 <details>
-<summary><strong>💬 Outros</strong></summary>
+<summary><strong>💬 Others</strong></summary>
 
 <br/>
 
@@ -84,6 +84,9 @@
 </div>
 </details>
 
+---
+# Stats
+[![Discord Presence](https://lanyard.cnrad.dev/api/878732372626006127?bg=000&borderRadius=50px&showDisplayName=true)](https://discord.com/users/878732372626006127)
 ---
 <div align="center">
   <img src="https://media1.tenor.com/m/6JU0Nsz3ZTcAAAAd/dog-sleeping-napping.gif" width="260"/>
