@@ -87,9 +87,9 @@ currently_doing:
 
 # Featured Projects
 
-## 🤖 Koxik Bot
+## :robot: Koxik Bot
 Koxik is a simple yet powerful Discord bot designed to cover the essentials without unnecessary complexity. 
-> [Website](https://koxik.ozorg.xyz/) | [Top.gg](https://top.gg/bot/1446227976793493594):  | [Github](https://github.com/OZ-Org/Koxik)
+> [Website](https://koxik.ozorg.xyz/) | [Top.gg](https://top.gg/bot/1446227976793493594)  | [Github](https://github.com/OZ-Org/Koxik) | [X](https://x.com/koxikbot)
 
 ## Hey, there's nothing else!
 Honestly, Koxik is my project that I like the most. There's nothing else to talk about.
@@ -124,10 +124,11 @@ Honestly, Koxik is my project that I like the most. There's nothing else to talk
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=noadevbr&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-eta-ashy-48.vercel.app/api?username=noadevbr&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noadevbr&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-eta-ashy-48.vercel.app/api/top-langs/?username=noadevbr&layout=compact&theme=tokyonight&hide_border=true"/>
 
+<img src="https://github-readme-stats-eta-ashy-48.vercel.app/api/wakatime?username=noadevbr&theme=tokyonight&layout=compact&hide_border=true">
 </div>
 
 ---
@@ -149,6 +150,7 @@ Honestly, Koxik is my project that I like the most. There's nothing else to talk
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/878732372626006127)
 <br>
 Email: noa.simoesss@gmail.com
+
 </div>
 
 ---
@@ -157,6 +159,6 @@ Email: noa.simoesss@gmail.com
 
 > probably debugging something right now
 
-<img src="https://media1.tenor.com/m/6JU0Nsz3ZTcAAAAd/dog-sleeping-napping.gif" width="260"/>
+<img src="https://media.tenor.com/u6Zue4084p4AAAAi/peridot-steven-universe.gif" width="260"/>
 
 </div>
