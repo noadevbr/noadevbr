@@ -1,93 +1,162 @@
+
 <img src="./BannerGithub.png" alt="Banner" />
 
 <div align="center">
-  <h1>Noa</h1>
-  <p>Full Stack Developer · Backend-first · Open-Source</p>
+
+# Noa
+<p>
+Full Stack developer crafting weird systems with TypeScript, Ruby and energy drinks.
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=noadevbr&color=grey&style=flat-square"/>
+</p>
+
+</div>
+
+```ts
+const noa = {
+  role: "Full Stack Developer",
+  focus: "Backend-first Architecture",
+  
+  languages: [
+    "TypeScript",
+    "JavaScript",
+    "Ruby"
+  ],
+
+  frontend: [
+    "React",
+    "React Router",
+    "Tailwind"
+  ],
+
+  backend: [
+    "Node.js",
+    "NestJS",
+    "ElysiaJS",
+    "Express"
+  ],
+
+  passions: [
+    "APIs",
+    "Discord Bots",
+    "Open Source",
+    "Linux",
+    "Chaotic Ideas"
+  ]
+}
+```
+
+---
+
+# About
+
+```yaml
+name: Noa
+
+role:
+  - Full Stack Developer
+  - Backend-first Engineer
+
+main_stack:
+  backend:
+    - Node.js
+    - NestJS
+    - ElysiaJS
+    - Ruby
+
+  frontend:
+    - React
+    - ReactRouter
+    - TailwindCSS
+
+database:
+  - PostgreSQL
+  - MongoDB
+  - SQLite
+
+currently_doing:
+  - Building bots
+  - Creating APIs
+  - Designing scalable (or not) systems
+  - Breaking production accidentally
+```
+
+---
+
+# Featured Projects
+
+## 🤖 Koxik Bot
+Koxik is a simple yet powerful Discord bot designed to cover the essentials without unnecessary complexity. 
+> [Website](https://koxik.ozorg.xyz/) | [Top.gg](https://top.gg/bot/1446227976793493594):  | [Github](https://github.com/OZ-Org/Koxik)
+
+## Hey, there's nothing else!
+Honestly, Koxik is my project that I like the most. There's nothing else to talk about.
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,elysia,bun,ruby,ts,js"/>
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,remix,vite,tailwind"/>
+
+## Database
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,prisma"/>
+
+## DevOps & System
+
+<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,docker,git"/>
+
 </div>
 
 ---
-## Stack
 
-<details>
-<summary><strong>🖥️ System</strong></summary>
-
-<br/>
-
-<div align="center">
-
-![Linux](https://skillicons.dev/icons?i=linux)
-![Arch](https://skillicons.dev/icons?i=arch)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![Docker](https://skillicons.dev/icons?i=docker)
-
-</div>
-</details>
-
-<details>
-<summary><strong>⚡ Backend</strong></summary>
-
-<br/>
-
-<div align="center">
-
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![NestJS](https://skillicons.dev/icons?i=nestjs)
-![Express](https://skillicons.dev/icons?i=express)
-![ElysiaJS](https://skillicons.dev/icons?i=elysia)
-![Ruby](https://skillicons.dev/icons?i=ruby)
-![Bun](https://skillicons.dev/icons?i=bun)
-
-</div>
-</details>
-
-<details>
-<summary><strong>🗄️ Databases</strong></summary>
-
-<br/>
-
-<div align="center">
-
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Prisma](https://skillicons.dev/icons?i=prisma)
-
-</div>
-</details>
-
-<details>
-<summary><strong>🎨 Frontend</strong></summary>
-
-<br/>
-
-<div align="center">
-
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=next)
-![Remix](https://skillicons.dev/icons?i=remix)
-![Vite](https://skillicons.dev/icons?i=vite)
-![Tailwind](https://skillicons.dev/icons?i=tailwindcss)
-
-</div>
-</details>
-
-<details>
-<summary><strong>💬 Others</strong></summary>
-
-<br/>
-
-<div align="center">
-
-![Discord.js](https://skillicons.dev/icons?i=discordjs)
-![Discord](https://skillicons.dev/icons?i=discord)
-
-</div>
-</details>
-
----
 # Stats
-[![Discord Presence](https://lanyard.cnrad.dev/api/878732372626006127?bg=000&borderRadius=50px&showDisplayName=true)](https://discord.com/users/878732372626006127)
----
+
 <div align="center">
-  <img src="https://media1.tenor.com/m/6JU0Nsz3ZTcAAAAd/dog-sleeping-napping.gif" width="260"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=noadevbr&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noadevbr&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# Activity
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/878732372626006127?bg=0d1117\&borderRadius=20px\&animated=true\&showDisplayName=true)](https://discord.com/users/878732372626006127)
+
+</div>
+
+---
+
+# Contact
+
+<div align="center">
+
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/878732372626006127)
+<br>
+Email: noa.simoesss@gmail.com
+</div>
+
+---
+
+<div align="center">
+
+> probably debugging something right now
+
+<img src="https://media1.tenor.com/m/6JU0Nsz3ZTcAAAAd/dog-sleeping-napping.gif" width="260"/>
+
 </div>
