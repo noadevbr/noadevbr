@@ -138,6 +138,7 @@ Honestly, Koxik is my project that I like the most. There's nothing else to talk
 <div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/878732372626006127?bg=0d1117\&borderRadius=20px\&animated=true\&showDisplayName=true)](https://discord.com/users/878732372626006127)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ndjiy47njzdqt55d3s4twk2wrm&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ndjiy47njzdqt55d3s4twk2wrm&redirect=true)
 
 </div>
 
